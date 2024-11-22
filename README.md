@@ -1,4 +1,3 @@
-
 # Image Resizer Using Python (Pillow)
 
 This project is a Python-based tool to resize images individually or in bulk using the **Pillow** library. It also organizes input and output images with the `os` module.
